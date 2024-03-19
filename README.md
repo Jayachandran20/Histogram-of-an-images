@@ -1,4 +1,4 @@
-![ex-3(hist)](https://github.com/Jayachandran20/Histogram-of-an-images/assets/118447015/fbd4e93b-9c7c-47fe-985d-cf5236ce7120)![ex-3(hist)](https://github.com/Jayachandran20/Histogram-of-an-images/assets/118447015/ffd241cf-4f1f-42cd-8e98-1c399747714c)# Histogram-of-an-images
+# Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
